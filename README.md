@@ -16,13 +16,32 @@ Welcome to the Trip Advisor Clone project! This project is a static web page tha
 
 
 
-Future Works
-In future iterations, the following enhancements could be made:
+Trip Advisor Clone
+This repository contains a clone of the Trip Advisor website, showcasing responsive design using media queries.
 
-Responsive Design: Implement media queries to ensure the website is responsive across different devices and screen sizes.
-Dynamic Content: Integrate with backend technologies to fetch real data and make the website interactive.
-Search Functionality: Add a search feature to allow users to search for specific destinations or attractions.
-User Authentication: Implement user authentication and user-specific features such as saving favorite destinations or writing reviews.
+Updates
+
+Media Queries for Responsiveness
+In this update, significant improvements have been made to the responsiveness of the website through the implementation of media queries. Here are the key changes:
+
+Added Media Queries: Media queries have been strategically added to the CSS files to adjust the layout and styling based on different screen sizes and devices.
+
+Improved Layout: The layout now adapts smoothly to various viewport sizes, ensuring optimal user experience regardless of the device used to access the website.
+
+Optimized Styling: Stylesheets have been optimized to enhance readability and usability on smaller screens, such as smartphones and tablets.
+
+Testing: Extensive testing has been conducted across multiple devices and screen sizes to ensure consistent rendering and functionality.
+
+Usage
+To view the Trip Advisor clone in action, simply clone this repository and open the index.html file in your web browser. You can also explore the codebase to understand the implementation details.
+
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+
+
+
+Acknowledgements
+Special thanks to Trip Advisor for providing inspiration for this project.
 Credits
 This project was created by manikandan R.
 
