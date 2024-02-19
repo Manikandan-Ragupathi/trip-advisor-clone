@@ -796,10 +796,13 @@ body{
     .banner_container-m{
         display:none;
     }
+    .footer__banner-m{
+        display:none;
+    }
 }
 
 
-/*mobile devic*/
+/*mobile device*/
 
 @media screen and (max-width:700px){
 
